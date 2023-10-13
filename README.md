@@ -50,11 +50,11 @@ To get started with our project, please follow the installation and setup instru
 
 ## Usage
 
-[User Guide](/docs/user-guide.md) provides detailed information on how to use our seismic data analysis tools and make predictions.
+[User Guide](/docs/user-guide.md) provides detailed information on how to use the seismic data analysis tools and make predictions.
 
 ## Contributing
 
-I welcome contributions from the data science and seismology communities. You can contribute to our project by following the guidelines in our [Contributing Guide](/CONTRIBUTING.md).
+I welcome contributions from the data science and seismology communities. You can contribute to this project by following the guidelines in our [Contributing Guide](/CONTRIBUTING.md).
 
 
 ## License
