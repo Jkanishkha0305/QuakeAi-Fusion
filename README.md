@@ -63,6 +63,6 @@ This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file
 
 ## Acknowledgments
 
-I'd like to extend my gratitude to Dr. Nirmal Gaud for his guidance and expertise in the field of Deep Learning seismology.
+I'd like to extend my gratitude to **_Dr. Nirmal Gaud_** for his guidance and expertise in the field of Deep Learning seismology.
 
 🌟🌍 Let's stand prepared, let's stand united. 🌍🌟
