@@ -42,7 +42,7 @@ To achieve my objectives, I analyze a range of data parameters, including:
 - **Hour and Date**: The timing of seismic events.
 
 These parameters are vital for comprehending earthquake patterns, trends, and potential impacts.  
-The dataset, [Earthquake.csv](dataset.csv), is included in this repository for your convenience.
+The dataset, [Earthquake.csv]([dataset.csv](https://drive.google.com/file/d/1WqG0S2r1GM_Rcyg2vQmFJ5pypc4EksGB/view)), is included in this repository for your convenience.
 
 ## Getting Started
 
